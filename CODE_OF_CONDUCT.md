@@ -112,7 +112,7 @@ a project may be further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be 
 
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All 
+reported by contacting the project team at CommonPaths@outlook.com. All 
 
 complaints will be reviewed and investigated and will result in a response that 
 

@@ -6,19 +6,19 @@ A multi-tenant GIS recording and reconciliation system to collect, process, and 
 * If you have questions you can reach us on our [slack](https://commonpaths.godaddysites.com/contact-us) or by [email](commonpaths@outlook.com).
 
 ## About
-CommonPaths was developed by [MVtransportation](https://www.mvtransit.com/) in partner with [King County Metro](https://kingcounty.gov/depts/transportation/metro.aspx?) as a solution to the current state of disorganization that is pedestrian pathway data. The system can collect and serve high-fidelity pedestrian pathway information in a standardized and computable format. It can accurately describe, translate and serve the data in a usable and actionable format for consumption by various applications and users with mobility impairments.
+CommonPaths was developed via a partnership between [King County Metro](https://kingcounty.gov/depts/transportation/metro.aspx?) and [MVtransportation](https://www.mvtransit.com/). The system can collect and serve high-fidelity pedestrian pathway information in a standardized and computable format. It can accurately describe, translate and serve the data in a usable and actionable format for consumption by various applications and users with mobility impairments.
 
 Built with the convergence of credible data in mind, CommonPaths enriches pathway data by integrating data from the crowdsourced and community data-governed OpenStreetMap, calculating the slope gradient from USGS Digital Elevation Model, and reviewing it using a field assessment mobile app. Data collected and distributed via the CommonPaths application can serve as the basis for automated accessibility condition analysis across an entire region, pedestrian network connectivity analysis for a variety of user mobility conditions, and provide granular and automated pedestrian pathway navigation instructions similar to what vehicle experience today through in-vehicle GPS units. 
 
 ## Features
 A simplified overview of the CommonPaths features:
-* Create and Import Repeated Client Trips 
-* Formulate Itinerary and Transit Instructions 
-* Desktop / Field Review
-* Control Data Pipeline
-* Export Data
+* Automated Itinerary and Transit Instructions for Individuals
+* Customized Desktop & Field Review Applications
+* Robust Data Control Pipeline with Data Conflict and Privacy / Proprietary Data Controls
+* Automated Data Export
 * Reports / Analytics
-* Application preferences
+* Built-in Multitenancy for Multi-Agency Collaboration
+* Cloud Native
 
 ## Contributing
 See our dedicated [page](https://github.com/CommonPaths/CommonPaths/blob/main/CONTRIBUTING.md) for more information on contributing to CommonPaths.
